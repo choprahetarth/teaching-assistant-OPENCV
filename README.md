@@ -18,3 +18,6 @@ python3 basic-pen-track.py
 Just a neat soemthing I tried making after getting inspired from the tutorial at
 [Here](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
 
+
+## TODO
+- Add Argument to work on videos as well, apart from live-stream
