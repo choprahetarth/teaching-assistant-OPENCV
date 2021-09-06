@@ -6,3 +6,8 @@ After using Conda to manage your libraries for Python, use this ->
 
 `pip install -r requirements.txt`
 
+## Solution inspiration
+
+Just a neat soemthing I tried making after getting inspired from the tutorial at
+[Here](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
+
