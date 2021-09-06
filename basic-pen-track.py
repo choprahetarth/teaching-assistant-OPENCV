@@ -1,3 +1,6 @@
+## Code Inspired from 
+## https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+
 # import the necessary packages
 from collections import deque # a super fast type data str
 ## more info https://docs.python.org/2/library/collections.html#collections.deque
