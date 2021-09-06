@@ -4,7 +4,14 @@ Using Contour Detection from the HSV colorspace with OpenCV, this tool is aimed 
 ## Code Requirements 
 After using Conda to manage your libraries for Python, use this ->
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
+
+## How to use
+```
+python3 basic-pen-track.py
+```
 
 ## Solution inspiration
 
